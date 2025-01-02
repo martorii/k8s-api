@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3617f325-a9c1-430f-9120-c89195a27f96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/document-processor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/utils/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/utils/preprocessing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_deployment.py" afterDir="false" />
+    <list default="true" id="3617f325-a9c1-430f-9120-c89195a27f96" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +41,7 @@
   "keyToString": {
     "Docker.Dockerfile.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Shell Script.deploy.executor": "Run",
     "Shell Script.deploy.sh.executor": "Run",
     "Shell Script.fastapi.executor": "Run",
     "Shell Script.k8.executor": "Run",
@@ -134,6 +118,19 @@
       <option name="presentableId" value="Default" />
       <updated>1735565748104</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1735829322160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735829322160</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
